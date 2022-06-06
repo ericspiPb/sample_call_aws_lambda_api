@@ -1,0 +1,14 @@
+{
+  "name": "test",
+  "version": "1.0.0",
+  "module": "main.mjs",
+  "license": "MIT",
+  "dependencies": {
+    "aws4-axios": "^2.4.9",
+    "axios": "^0.27.2",
+    "nodemon": "^2.0.16"
+  },
+  "scripts": {
+    "start": "node main.mjs"
+  }
+}
